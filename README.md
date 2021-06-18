@@ -4,8 +4,6 @@
   <p align="center">
     This is a gradient background generator I created using html/css/js.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
     <a href="https://gradient-background-generator-one.vercel.app/">View Demo</a>
   </p>
 </p>

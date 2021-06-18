@@ -25,8 +25,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot](https://i.gyazo.com/7ea3e0a5c68f260051b5f27e1797ff5c.png)
-
 I created this project in order to improve some basic JavaScript skills within the DOM (document object model). I created event listeners and functions in order to update the background colours as the user users the colour picker. Not only was the project good practice, it is also useful and simple to use.
 
 Features:
